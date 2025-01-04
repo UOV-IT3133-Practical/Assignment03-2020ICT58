@@ -21,7 +21,7 @@ export default function App() {
               headerTitleAlign: "center",
               headerTintColor: "#fff",
             }}
-            initialRouteName="Home"
+            initialRouteName="Login"
           >
             <Stack.Screen
               name="Login"
