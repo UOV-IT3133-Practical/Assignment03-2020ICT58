@@ -19,6 +19,7 @@ export default function App() {
               headerStyle: { backgroundColor: "#70116d" },
               headerTitleStyle: { color: "#fff" },
               headerTitleAlign: "center",
+              headerTintColor: "#fff",
             }}
           >
             <Stack.Screen
