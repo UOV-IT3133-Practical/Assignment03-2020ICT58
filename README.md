@@ -8,3 +8,7 @@ Learned in this assignment,
 - Implement the login functionality.
 
 ### Output  
+![all_screens](output/output.jpg)
+
+## Demo  
+![Demo](output/output.gif)
